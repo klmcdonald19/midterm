@@ -1,0 +1,26 @@
+1. <a href="https://www.google.com"> Google is the best search engine in the world</a>
+2. The purpose of a div tag is basically a container for html elements. It doesn't affect content or layout until it is styled in some way by css. It is grouped by div so it becomes easier to style.
+3. <DOCTYPE html>
+  <html>
+
+    <head>
+      <title> Title goes here </title>
+    </head>
+
+    <body>
+      Body content goes here
+    </body>
+
+    </html>
+4. You would link your stylesheet in the head of your html page because the head is where information about the document is put.
+5. You would put text, img, and div tags in the body section of your html.
+6. <div class="graphicbox">
+   <div id="name">
+7. <div id="apples" class="fruit">
+8. .fruit {
+  color: #000000;
+}
+9. An <img> tag is used to embed an image on an html page.
+10. Media queries are used to in css to enable webpage content to adapt to different screen sizes. They are used to customize websites appearances for multiple types of devices.
+11. A serif has a decorative stroke on the ends of the letters stem. A sans serif font does not have these extra strokes.
+12. #FFCC33 is a hexadecimal code         

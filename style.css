@@ -1,0 +1,49 @@
+/* This is a comment about my css page. I am styling my images, banner, as well as text here*/
+h1 {
+  font-family: Georgia, serif;
+  font-size: 30px;
+  text-align: center;
+  color: #000099;
+}
+h2{
+  font-family: Georgia, serif;
+  font-size: 20px;
+  color: #0000b3;
+}
+body{
+  font-family: Helvetica, Arial, sans-serif;
+  font-size: 12px;
+}
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%;
+  height:auto;
+}
+#content {
+  text-align: left;
+  margin: auto;
+  padding: 20px;
+  width: 65%;
+}
+#byline {
+  font-family: Georgia, serif;
+  font-size: 15px;
+  text-align: center;
+}
+blockquote{
+  font-size: 15px;
+  font-weight: bold;
+  color: #0000b3;
+  background:  #e6e6ff;
+}
+li{
+  font-family: Georgia, serif;
+  font-size: 12px;
+}
